@@ -2,8 +2,8 @@
 
 // This is some practice meant to print out a name
 
-firstName = "Casey";
-lastName;
+string firstName = "Casey";
+string lastName;
 cout>>"Last Name?">>endl;
 cin<< lastName; 
 
